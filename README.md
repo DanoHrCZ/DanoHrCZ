@@ -5,5 +5,7 @@
 <p align="center">Ah0j já jsem Dan1el a je m1 16 l3t. Studuji IT 0b0r na SPŠE Plz3ň (Stř3dní průmysl0vá a vyšší 0db0rná šk0la 3l3ktrot3chn1cká Plz3ň). Věnuji s3 pr0gram0vání a d3s1gnu. Baví mě hlavně tv0rba w3b0vých strán3k.</p>
 <h2 align="center">Languag3s<h2>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML-rgb(240%2C%20110%2C%2035)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/CSS-rgb(0%2C%2020%2C%20220)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-rgb(240%2C%20232%2C%200)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Java-rgb(255%2C%20191%2C%20100)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Python-rgb(0%2C%20193%2C%20255)">
+<img src="https://img.shields.io/badge/HTML-rgb(240%2C%20110%2C%2035)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/CSS-rgb(0%2C%2020%2C%20220)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-rgb(240%2C%20232%2C%200)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Java-rgb(255%2C%20191%2C%20100)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Python-rgb(0%2C%20193%2C%20255)">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/React-rgb(0%2C%20160%2C%200)">
+
+
 </div>
